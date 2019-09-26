@@ -1,3 +1,6 @@
 .correct{
-        color:green;
+        background-color: #00B200;
+        width: 150px;
+		height: 20px;
+		border-radius: 6px;
     }
